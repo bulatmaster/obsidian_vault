@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "533e442602db3688",
+    "type": "split",
+    "children": [
+      {
+        "id": "585e6a659b2a6ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f58fe20a0b3782c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5022.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5022"
+            }
+          },
+          {
+            "id": "4be373344e2a4576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IP офиса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP офиса"
+            }
+          },
+          {
+            "id": "c8473cf6356c4691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ip Valikmilk office.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ip Valikmilk office"
+            }
+          },
+          {
+            "id": "fb05f0d74cbc1ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перенос инфы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перенос инфы"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c2634ecbb828237",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19923f873c22808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7549efdf8077d387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b4e863fdc7c9384",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f48176d44981fc1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14fc95c7d27b7777",
+    "type": "split",
+    "children": [
+      {
+        "id": "a971c5d3fb834608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0a5be8b51e2fde0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "дела.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for дела"
+            }
+          },
+          {
+            "id": "d17ef79b42c405a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "дела.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from дела"
+            }
+          },
+          {
+            "id": "0121a7b1f2b9e87f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85f6113c27244558",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "848e0a312b72f27d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "дела.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of дела"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c8473cf6356c4691",
+  "lastOpenFiles": [
+    "IP офиса.md",
+    "ip Valikmilk office.md",
+    "Untitled 3.md",
+    "Commercial Offer.md",
+    "5022.md",
+    "changes summary.md",
+    "Перенос инфы.md",
+    "могила.md",
+    "задачи.md",
+    "CRM.md",
+    "Автоматизация HH процесса.md",
+    "Айдишники битрикс - турбодеск.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "!.md",
+    "сервер.md",
+    "=.md",
+    "task tracker.md",
+    "ключевые метрики.md",
+    "Untitled.md",
+    "schema.md",
+    "карта.md",
+    "вопросы на собеседовании.md",
+    "дела личные backlog.md",
+    "дела личные.md",
+    "дела.md"
+  ]
+}
