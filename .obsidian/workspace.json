@@ -4,67 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "585e6a659b2a6ce1",
+        "id": "113eb70a4b475b91",
         "type": "tabs",
         "children": [
           {
-            "id": "8f58fe20a0b3782c",
+            "id": "63d228e8d1d298f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5022.md",
+                "file": "!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5022"
+              "title": "!"
             }
           },
           {
-            "id": "4be373344e2a4576",
+            "id": "99ad81cb2f4a0fbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP офиса.md",
+                "file": "ui.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP офиса"
+              "title": "ui"
             }
           },
           {
-            "id": "c8473cf6356c4691",
+            "id": "78f25226f2b00609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ip Valikmilk office.md",
+                "file": "СТУДИЯ ФИЛИН.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ip Valikmilk office"
+              "title": "СТУДИЯ ФИЛИН"
             }
           },
           {
-            "id": "fb05f0d74cbc1ad2",
+            "id": "98e85192d0fba809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Перенос инфы.md",
+                "file": "sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перенос инфы"
+              "title": "sites"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -226,33 +226,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8473cf6356c4691",
+  "active": "98e85192d0fba809",
   "lastOpenFiles": [
-    "IP офиса.md",
-    "ip Valikmilk office.md",
-    "Untitled 3.md",
+    "СТУДИЯ ФИЛИН.md",
+    "sites.md",
+    "ui.md",
+    "!.md",
+    "report.md",
     "Commercial Offer.md",
-    "5022.md",
     "changes summary.md",
     "Перенос инфы.md",
-    "могила.md",
+    "Untitled 3.md",
+    "Что есть сделка?.md",
+    "Эссе о turbodesk.md",
+    "ip Valikmilk office.md",
     "задачи.md",
-    "CRM.md",
-    "Автоматизация HH процесса.md",
-    "Айдишники битрикс - турбодеск.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "!.md",
+    "CRM.md",
+    "Айдишники битрикс - турбодеск.md",
     "сервер.md",
-    "=.md",
     "task tracker.md",
-    "ключевые метрики.md",
-    "Untitled.md",
-    "schema.md",
+    "Автоматизация HH процесса.md",
     "карта.md",
     "вопросы на собеседовании.md",
     "дела личные backlog.md",
     "дела личные.md",
-    "дела.md"
+    "hrm module.md",
+    "ключевые метрики.md",
+    "=.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled"
   ]
 }
