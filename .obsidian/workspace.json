@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "113eb70a4b475b91",
+        "id": "97cc0f53b75ed0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "63d228e8d1d298f1",
+            "id": "9a46a81f61776c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!.md",
+                "file": "cmd.exe - tg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!"
+              "title": "cmd.exe - tg"
             }
           },
           {
-            "id": "99ad81cb2f4a0fbd",
+            "id": "69123b7f76c6e21b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ui.md",
+                "file": "l.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ui"
+              "title": "l"
             }
           },
           {
-            "id": "78f25226f2b00609",
+            "id": "5794677b13cd5178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СТУДИЯ ФИЛИН.md",
+                "file": "cmd.exe - tg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СТУДИЯ ФИЛИН"
-            }
-          },
-          {
-            "id": "98e85192d0fba809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sites"
+              "title": "cmd.exe - tg"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,34 +212,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "98e85192d0fba809",
+  "active": "5794677b13cd5178",
   "lastOpenFiles": [
-    "СТУДИЯ ФИЛИН.md",
-    "sites.md",
-    "ui.md",
+    "2026-03-19.md",
+    "Untitled 1.md",
+    "l.md",
+    "cmd.exe - tg.md",
+    "2026-03-17.md",
+    "Untitled.md",
+    "удачные куски.md",
+    "manually.md",
+    "deals.md",
+    "sa.md",
+    "good contacts.md",
     "!.md",
-    "report.md",
-    "Commercial Offer.md",
+    "IP офиса.md",
+    "тест на компьютере.md",
+    "5022.md",
+    "task tracker _.md",
+    "2026-03-05.md",
+    "ui.md",
     "changes summary.md",
-    "Перенос инфы.md",
-    "Untitled 3.md",
-    "Что есть сделка?.md",
-    "Эссе о turbodesk.md",
+    "sites.md",
+    "report.md",
     "ip Valikmilk office.md",
-    "задачи.md",
-    "Untitled 2.md",
-    "CRM.md",
-    "Айдишники битрикс - турбодеск.md",
-    "сервер.md",
-    "task tracker.md",
-    "Автоматизация HH процесса.md",
-    "карта.md",
-    "вопросы на собеседовании.md",
-    "дела личные backlog.md",
-    "дела личные.md",
-    "hrm module.md",
-    "ключевые метрики.md",
-    "=.md",
+    "Untitled 3.md",
+    "Commercial Offer.md",
+    "СТУДИЯ ФИЛИН.md",
+    "Перенос инфы.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled"

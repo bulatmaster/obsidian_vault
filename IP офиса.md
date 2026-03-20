@@ -3,8 +3,3 @@
 
 22022
 
-serveradmin 
-
-~/tmp/id_rsa
-
-
